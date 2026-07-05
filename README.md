@@ -8,6 +8,16 @@ Sapphire is a carefully crafted dark theme built around a deep blue background w
 
 This Zed port builds on a local opencode port of Sapphire that was completed previously for personal use and is also included in this repository. The opencode port's color definitions and semantic mappings (found in `opencode_ref/sapphire.json`) served as the direct reference for translating the theme into Zed's format, ensuring fidelity to the original VS Code experience while fully leveraging Zed's theming capabilities.
 
+
+## Preview
+
+<img width="1332" height="865" alt="image" src="https://github.com/user-attachments/assets/1a40bca9-bbf7-4d7a-847e-569ecd120f02" />
+<img width="1331" height="862" alt="image" src="https://github.com/user-attachments/assets/cab67361-5b46-4511-8d0e-cc686185893b" />
+<img width="1335" height="863" alt="image" src="https://github.com/user-attachments/assets/7d72bcf9-b1b1-4704-8cbc-7a84d6531813" />
+<img width="1333" height="860" alt="image" src="https://github.com/user-attachments/assets/e37c1893-b21a-4049-9616-39a09f057b52" />
+
+
+
 ## Color Palette
 
 | Role | Hex |
