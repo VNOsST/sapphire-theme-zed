@@ -56,16 +56,12 @@ Colors in Sapphire carry consistent meaning:
 
 ## Installation
 
-1. Open Zed
-2. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
-3. Run `theme: install from file`
-4. Select the `sapphire.json` file from this repository
+Copy `sapphire.json` to your Zed themes directory:
 
-Alternatively, copy `sapphire.json` to your Zed themes directory:
+- **macOS & Linux:** `~/.config/zed/themes/`
+- **Windows:** `%USERPROFILE%\AppData\Roaming\Zed\themes\`
 
-- **macOS:** `~/.config/zed/themes/`
-- **Linux:** `~/.config/zed/themes/`
-- **Windows:** `%APPDATA%\Zed\themes\`
+Open Zed and select 'Sapphire' as your theme!
 
 ## Inspiration
 
