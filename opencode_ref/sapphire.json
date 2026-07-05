@@ -1,0 +1,220 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "bgDark": "#080d14",
+    "bgPanel": "#090f18",
+    "bgElement": "#0c1420",
+    "fg": "#efefef",
+    "fgMuted": "#535a6b",
+    "border": "#263040",
+    "primary": "#399EF4",
+    "cyan": "#21C5C7",
+    "green": "#4EB071",
+    "yellow": "#fff099",
+    "red": "#DA6771",
+    "magenta": "#B168DF",
+    "gray": "#535a6b"
+  },
+  "theme": {
+    "primary": {
+      "dark": "primary",
+      "light": "primary"
+    },
+    "secondary": {
+      "dark": "cyan",
+      "light": "cyan"
+    },
+    "accent": {
+      "dark": "yellow",
+      "light": "yellow"
+    },
+    "error": {
+      "dark": "red",
+      "light": "red"
+    },
+    "warning": {
+      "dark": "yellow",
+      "light": "yellow"
+    },
+    "success": {
+      "dark": "green",
+      "light": "green"
+    },
+    "info": {
+      "dark": "primary",
+      "light": "primary"
+    },
+    "text": {
+      "dark": "fg",
+      "light": "bgDark"
+    },
+    "textMuted": {
+      "dark": "fgMuted",
+      "light": "gray"
+    },
+    "background": {
+      "dark": "bgDark",
+      "light": "fg"
+    },
+    "backgroundPanel": {
+      "dark": "bgPanel",
+      "light": "#e5e9f0"
+    },
+    "backgroundElement": {
+      "dark": "bgElement",
+      "light": "#d8dee9"
+    },
+    "border": {
+      "dark": "border",
+      "light": "#434c5e"
+    },
+    "borderActive": {
+      "dark": "primary",
+      "light": "primary"
+    },
+    "borderSubtle": {
+      "dark": "border",
+      "light": "#434c5e"
+    },
+    "diffAdded": {
+      "dark": "green",
+      "light": "green"
+    },
+    "diffRemoved": {
+      "dark": "red",
+      "light": "red"
+    },
+    "diffContext": {
+      "dark": "gray",
+      "light": "gray"
+    },
+    "diffHunkHeader": {
+      "dark": "gray",
+      "light": "gray"
+    },
+    "diffHighlightAdded": {
+      "dark": "green",
+      "light": "green"
+    },
+    "diffHighlightRemoved": {
+      "dark": "red",
+      "light": "red"
+    },
+    "diffAddedBg": {
+      "dark": "#182818",
+      "light": "#2a3e2a"
+    },
+    "diffRemovedBg": {
+      "dark": "#261616",
+      "light": "#3e2e2e"
+    },
+    "diffContextBg": {
+      "dark": "bgPanel",
+      "light": "#e5e9f0"
+    },
+    "diffLineNumber": {
+      "dark": "border",
+      "light": "#434c5e"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "#182818",
+      "light": "#2a3e2a"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "#261616",
+      "light": "#3e2e2e"
+    },
+    "markdownText": {
+      "dark": "fg",
+      "light": "bgDark"
+    },
+    "markdownHeading": {
+      "dark": "primary",
+      "light": "primary"
+    },
+    "markdownLink": {
+      "dark": "cyan",
+      "light": "cyan"
+    },
+    "markdownLinkText": {
+      "dark": "cyan",
+      "light": "cyan"
+    },
+    "markdownCode": {
+      "dark": "red",
+      "light": "red"
+    },
+    "markdownBlockQuote": {
+      "dark": "gray",
+      "light": "gray"
+    },
+    "markdownEmph": {
+      "dark": "fg",
+      "light": "bgDark"
+    },
+    "markdownStrong": {
+      "dark": "fg",
+      "light": "bgDark"
+    },
+    "markdownHorizontalRule": {
+      "dark": "border",
+      "light": "#434c5e"
+    },
+    "markdownListItem": {
+      "dark": "primary",
+      "light": "primary"
+    },
+    "markdownListEnumeration": {
+      "dark": "primary",
+      "light": "primary"
+    },
+    "markdownImage": {
+      "dark": "cyan",
+      "light": "cyan"
+    },
+    "markdownImageText": {
+      "dark": "cyan",
+      "light": "cyan"
+    },
+    "markdownCodeBlock": {
+      "dark": "fg",
+      "light": "bgDark"
+    },
+    "syntaxComment": {
+      "dark": "gray",
+      "light": "#434c5e"
+    },
+    "syntaxKeyword": {
+      "dark": "primary",
+      "light": "primary"
+    },
+    "syntaxFunction": {
+      "dark": "yellow",
+      "light": "yellow"
+    },
+    "syntaxVariable": {
+      "dark": "cyan",
+      "light": "cyan"
+    },
+    "syntaxString": {
+      "dark": "red",
+      "light": "red"
+    },
+    "syntaxNumber": {
+      "dark": "red",
+      "light": "red"
+    },
+    "syntaxType": {
+      "dark": "green",
+      "light": "green"
+    },
+    "syntaxOperator": {
+      "dark": "primary",
+      "light": "primary"
+    },
+    "syntaxPunctuation": {
+      "dark": "fg",
+      "light": "bgDark"
+    }
+  }
+}
